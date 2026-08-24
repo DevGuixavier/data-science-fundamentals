@@ -1,0 +1,11 @@
+ID,Produto,Categoria,Preço,Quantidade
+1,Notebook,Eletrônicos,3500,5
+2,Mouse,Periféricos,150,20
+3,Teclado,Periféricos,450,15
+4,Monitor,Eletrônicos,1200,8
+5,Webcam,Periféricos,300,12
+6,Headset,Periféricos,250,10
+7,SSD,Componentes,800,6
+8,RAM,Componentes,600,9
+9,Mousepad,Acessórios,50,30
+10,Hub USB,Acessórios,120,25
